@@ -7,7 +7,7 @@ A day will come at last when I
 Shall take the hidden paths that run
 West of the Moon, East of the Sun.”
 
-https://gpgreif.github.io/
+https://gpgreif.github.io/blog
 
 <!---
 gpgreif/gpgreif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
